@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: "About"
 ---
   I'm Marty Hernandez Avedon. I'm a dev with a background in graphic design and writing.  
 
