@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Swift Bookmark Master List"
 ---
 
 [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet/)
@@ -16,11 +17,11 @@ layout: page
 
 [NSHipster](http://nshipster.com/)
 
-[Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](https://www.raywenderlich.com/)
+[Ray Wenderlich Tutorials for iOS Developers](https://www.raywenderlich.com/)
 
 [Closures in Swift](http://fuckingswiftblocksyntax.com/)
 
-[The Secret Rules of Modern Living: Algorithms | Netflix](https://www.netflix.com/watch/80095881)
+[Algorithms Doc on Netflix -- The Secret Rules of Modern Living](https://www.netflix.com/watch/80095881)
 
 [Stanford - Developing iOS 9 Apps with Swift - 1\. Course Overview and iOS9 introduction - YouTube](https://www.youtube.com/watch?v=_lRx1zoriPo&list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkTa)
 
@@ -38,7 +39,7 @@ layout: page
 
 [Auto Layout Tutorial in iOS 9 Part 1: Getting Started](https://www.raywenderlich.com/115440/auto-layout-tutorial-in-ios-9-part-1-getting-started-2)
 
-[iOS Essentials: The UIViewController Lifecycle | Roadfire Software](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
+[The UIViewController Lifecycle](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
 
 [Introducing Protocol-Oriented Programming in Swift 2](https://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
 
@@ -78,11 +79,11 @@ layout: page
 
 [Use the debug area to control and inspect your running app - Xcode Help](http://help.apple.com/xcode/mac/8.0/#/devda5478599)
 
-[Coderbyte | The #1 Website for Coding Challenges](https://www.coderbyte.com/)
+[Coderbyte -- The #1 Website for Coding Challenges](https://www.coderbyte.com/)
 
 [Swift iOS Tutorial: UISearchBar and UISearchBarDelegate](http://shrikar.com/swift-ios-tutorial-uisearchbar-and-uisearchbardelegate/)
 
-[Using Swift Enumerations Makes Segues Safer | Big Nerd Ranch](https://www.bignerdranch.com/blog/using-swift-enumerations-makes-segues-safer/)
+[Using Swift Enumerations Makes Segues Safer](https://www.bignerdranch.com/blog/using-swift-enumerations-makes-segues-safer/)
 
 [A Beginner's Guide to Animated Custom Segues in iOS 8](https://www.appcoda.com/custom-segue-animations)
 
@@ -114,7 +115,7 @@ layout: page
 
 [https://raptureinvenice.com/ios-brownbag-view-vs-layers-including-clock-demo/](https://raptureinvenice.com/ios-brownbag-view-vs-layers-including-clock-demo/)
 
-[Getting Started with Neural Networks in iOS 10 | Prolific Blog](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/?utm_content=bufferb6d40&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+[Getting Started with Neural Networks in iOS 10](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/?utm_content=bufferb6d40&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 [Learn iOS 10, Swift 3 Programming - Creating a CoreData Entity : swift](https://www.reddit.com/r/swift/comments/65ppem/learn_ios_10_swift_3_programming_creating_a/)
 
@@ -158,13 +159,13 @@ layout: page
 
 [Slide Code](https://gist.github.com/thedevme/20f664bbf679fe557209c57d5e34216f)
 
-[Mobile Continuous Integration & Deployment for iOS and Android | buddybuild](https://www.buddybuild.com/)
+[Mobile Continuous Integration & Deployment for iOS and Android](https://www.buddybuild.com/)
 
 [Dispatch Barriers in Swift 3 – Ömer Yalhı – Medium](https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6)
 
-[Mastering Swift: tips about array and dictionary literals](https://rainsoft.io/concise-initialization-of-collections-in-swift/)
+[Mastering Swift: Tips about array and dictionary literals](https://rainsoft.io/concise-initialization-of-collections-in-swift/)
 
-[Videos | SwiftConf](https://swiftconf.com/videos/)
+[Videos from SwiftConf](https://swiftconf.com/videos/)
 
 [ios - Text View Placeholder Swift - Stack Overflow](https://stackoverflow.com/questions/27652227/text-view-placeholder-swift)
 
@@ -174,7 +175,7 @@ layout: page
 
 [The worst possible application](https://www.cocoawithlove.com/blog/worst-possible-application.html)
 
-[Authenticate Using Google Sign-In on iOS | Firebase](https://firebase.google.com/docs/auth/ios/google-signin?authuser=0)
+[Authenticate Using Google Sign-In on iOS -- Firebase](https://firebase.google.com/docs/auth/ios/google-signin?authuser=0)
 
 [iOS Architecture: A State Container based approach – Jobandtalent Engineering](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
 
