@@ -23,18 +23,17 @@ description: "Marty Hernandez Avedon's developer site."
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://martyav.github.io" # the stuff in quotes is a link to the file lol
-  About Me: "aboutme" # if it's a markdown file in the root directory you can write it like this
+  About Me: "aboutme" # if the link's a markdown file in the root directory you can write it like this
   Articles: 
     - Tutorials: "WIP"
     - Interviews: "WIP"
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
     - Android compared with iOS: "android-ios"
-  Projects:
-    - Capstone: "WIP"
-    - Voting/Call: "WIP"
-    - Emoji: "WIP"
+  Projects: "https://github.com/martyav"
+   # - Capstone: "WIP"
+   # - Voting/Call: "WIP"
+   # - Emoji: "WIP"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
