@@ -47,7 +47,7 @@ title: "Swift Bookmark Master List"
 
 [About the iOS Technologies](https://developer.apple.com/library/content/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898-CH1-SW1)
 
-[API Reference | Apple Developer Documentation](https://developer.apple.com/reference)
+[API Reference -- Apple Developer Documentation](https://developer.apple.com/reference)
 
 [Guides and Sample Code](https://developer.apple.com/library/prerelease/content/navigation/#section=Technologies&topic=UIKit)
 
