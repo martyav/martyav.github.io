@@ -5,6 +5,8 @@ title: Notes on React Native Migration, from Android@Scale
 
 On January 31, [Yang Mou](http://www.yzmou.com/) of [Oscar Health](https://www.hioscar.com/ny) gave a talk at the [Android@Scale](https://atscaleconference.com/events/android-scale-2018/) conference in Manhattan. He discussed migrating mobile apps to [React Native](https://facebook.github.io/react-native/). These are my notes from this session. 
 
+***
+
 Oscar is a health insurance company that has a small team of engineers running their mobile and web frontends and backends in-house. Most of their engineers are fullstack, and work on multiple platforms at once. They use Javascript for frontend and Python for backend work.
 
 Because they are a small team and are maintaining apps for iOS, Android, and the web, as well as running a backend API, React Native was enticing to the engineers at Oscar Health. React Native is cross-platform, offers better ergonomics than the Android SDK, and uses Javascript, a language the whole team was familiar with. 
