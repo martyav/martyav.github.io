@@ -195,7 +195,7 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 
 1. [Magical Error Handling in Swift](https://www.raywenderlich.com/130197/magical-error-handling-swift)
 
-[1. Use the debug area to control and inspect your running app - Xcode Help](http://help.apple.com/xcode/mac/8.0/#/devda5478599)
+1. [Use the debug area to control and inspect your running app - Xcode Help](http://help.apple.com/xcode/mac/8.0/#/devda5478599)
 
 ### Testing
 
