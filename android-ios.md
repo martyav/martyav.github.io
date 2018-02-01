@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Android <==> iOS"
+share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
 [Compare Protocol in Swift vs Interface in Java - Stack Overflow](https://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
