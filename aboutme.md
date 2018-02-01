@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About me"
+share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
   I'm Marty Hernandez Avedon. I'm a dev with a background in graphic design and writing.  
 
