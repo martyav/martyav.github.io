@@ -235,13 +235,13 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 
 1. [Auto Layout Tutorial in iOS 9 Part 1: Getting Started](https://www.raywenderlich.com/115440/auto-layout-tutorial-in-ios-9-part-1-getting-started-2)
 
-1. [IBInspectable / IBDesignable - NSHipster](http://nshipster.com/ibinspectable-ibdesignable/)
-
 ### Views & Animation
 
-1. [A Beginner's Guide to Animated Custom Segues in iOS 8](https://www.appcoda.com/custom-segue-animations)
+1. [IBInspectable / IBDesignable - NSHipster](http://nshipster.com/ibinspectable-ibdesignable/)
 
 1. [Load a UIView from nib in Swift - Stack Overflow](http://stackoverflow.com/questions/24857986/load-a-uiview-from-nib-in-swift)
+
+1. [A Beginner's Guide to Animated Custom Segues in iOS 8](https://www.appcoda.com/custom-segue-animations)
 
 1. [https://raptureinvenice.com/ios-brownbag-view-vs-layers-including-clock-demo/](https://raptureinvenice.com/ios-brownbag-view-vs-layers-including-clock-demo/)
 
