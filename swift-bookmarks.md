@@ -65,6 +65,8 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 
 1. [The Recurse Center](https://www.recurse.com/)
 
+***
+
 ## Particulars
 
 ### Architecture & Technical Design
@@ -261,6 +263,8 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 
 1. [Getting Started with Neural Networks in iOS 10](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/?utm_content=bufferb6d40&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
+***
+
 ## Tools
 
 ### Playgrounds
@@ -277,4 +281,4 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 
 ### Cocoapod Reference
 
-[An Introduction to CocoaPods (Route 85) - YouTube](https://www.youtube.com/watch?v=iEAjvNRdZa0&spfreload=10)
+1. [An Introduction to CocoaPods (Route 85) - YouTube](https://www.youtube.com/watch?v=iEAjvNRdZa0&spfreload=10)
