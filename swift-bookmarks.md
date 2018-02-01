@@ -4,6 +4,9 @@ title: "Swift Bookmark Master List"
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
+* This autogenerates a table of contents. Please do not remove
+{:toc}
+
 ## General
 
 ### Apple Docs
