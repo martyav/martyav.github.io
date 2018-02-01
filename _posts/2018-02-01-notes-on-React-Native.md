@@ -34,6 +34,6 @@ Because iOS, Android, and React Native all have very different ways of handling 
 
 For hybrid apps, you can have an if-else statement to detect if the next screen is in React Native or something else. Navigating backward is simplified by the fact that both Android and iOS use stacks to implement a navigation history, whereas React Native uses a Javascript array.
 
-Yang Mou recommends that if you are migrating, you write as much code is possible, front and backend, in React Native. Start with the "leaf screens" — the parts of the app that at the tips of the userflow tree. Then work backward. There will be a performance hit going from a screen that's pure native to one that's written inReact Native, so avoid forcing the user to go back and forth between the two where possible. 
+Yang Mou recommends that if you are migrating, you write as much code is possible, front and backend, in React Native. Start with the "leaf screens" — the parts of the app that at the tips of the userflow tree. Then work backward. There will be a performance hit going from a screen that's pure native to one that's written in React Native, so avoid forcing the user to go back and forth between the two where possible. 
 
 As you continue to migrate your app, write all new features in React Native. Try to use crossplatform APIs as much as you can, because it will save you time and simplify maintaining all your apps. And only write pure native code when performance is absolutely critical, or when you absolutely must use a native-only API.
