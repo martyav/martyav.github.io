@@ -25,8 +25,15 @@ description: "Marty Hernandez Avedon's developer site."
 navbar-links:
   About Me: "aboutme" # if the link's a markdown file in the root directory you can write it like this
   Articles: 
-    - Tutorials: "WIP"
-    - Interviews: "WIP"
+    - Tutorials: 
+      - Ten Key Resources for Beginner iOS Devs: "https://medium.com/@MartianAviary/ten-key-resources-for-beginner-ios-devs-caba2b83f67c"
+      - Swift Basics: "https://github.com/martyav/swiftBasics"
+      - Git Basics: "https://github.com/martyav/git-CLI-cheat-sheet"
+      - Basic TableView in iOS: "https://github.com/martyav/basicTableMVC"
+      - TicTacToe Demo: "https://github.com/martyav/ticTacToeHomework"
+      - Nib Walkthrough: "https://github.com/martyav/nibPractice"
+      - Splash Animation Overview: "https://medium.com/@MartianAviary/making-a-splash-93d9ae8f1696"
+    - Interviews: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
     - Android compared with iOS: "android-ios"
@@ -88,16 +95,16 @@ social-network-links:
   github: martyav
   twitter: MHA_from_NYC
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  google-plus: +Name
+#  linkedin: name
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "idNumber/name"
+#  snapchat: name
+#  instagram: name
+#  youtube: user/name
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +1234567
+#  steam: name
 #  twitch: yourname
 #  yelp: yourname
 
@@ -178,7 +185,6 @@ link-tags: true
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Dockerfile
   - Gemfile
