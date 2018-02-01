@@ -16,8 +16,9 @@ The original impetus was an engineer who wanted to work on the iOS app, but who 
 
 React Native offers a few other advantages. For example, it's much faster to reload some Javascript than to recompile a pure native app, so you save a lot of time when building. Testing is faster and easier than when using native Android tools. Finally, many web developers already know React, so they pick up on React Native relatively quickly.
 
-However, there are also disadvantages to working with React Native. Devs who come to it from a mobile background learn it slower than those who have a background in web. Although you can and should write as much of your React Native app in Javascript, you can't get away from learning native, because sometimes you need to use native-only APIs, or performance requirements force you to drop down a layer in abstraction and write pure native code.   
+However, there are also disadvantages to working with React Native. For example, devs who come to it from a mobile background learn it slower than those who have a background in web...so if your team makeup is different from Oscar Health's onboarding may be slower.
 
+Even if your team has a web-based background, they can't get away from learning some native, because sometimes you need to use native-only APIs, or performance requirements force you to drop down a layer in abstraction and write pure native code.   
 React Native is also newer and less battle-tested than pure native code, and the codebase is constantly changing, requiring frequent updating (something Swift devs may sympathize with). It's also worth noting that React Native's support for Android lags behind its support for iOS, so newer features and bug fixes don't reach Android quite as quickly.
 
 One seeming disadvantage of working with React Native can actually be handled easily. Although Javascript is untyped, you can add something like type safety by using [Flow](https://flow.org/) or [Typescript](https://www.typescriptlang.org/). Flow has the advantage of looking a bit similar to Kotlin.
