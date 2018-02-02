@@ -24,7 +24,6 @@ p {
 }
 li {
   text-indent: 20px;
-  line-height: 1.6
 }
 li a {
   color: #404040;
@@ -128,6 +127,7 @@ img {
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 1px;
+  text-indent: 0;
 }
 
 .navbar-custom .navbar-brand,
