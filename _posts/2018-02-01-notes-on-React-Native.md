@@ -18,7 +18,7 @@ React Native offers a few other advantages. For example, it's much faster to rel
 
 However, there are also disadvantages to working with React Native. For example, devs who come to it from a mobile background learn it slower than those who have a background in web...so if your team makeup is different from Oscar Health's, onboarding may be slower.  
 
-Even if your team has a web-based background, they can't get away from learning some native, because sometimes you need to use native-only APIs, or performance requirements force you to drop down a layer in abstraction and write pure native code.  
+Even if your team has a web-based background, they can't get away from learning some native, because sometimes you need to use native-only APIs, or performance requirements force you to drop down a layer in abstraction and write pure native code. 
 
 React Native is also newer and less battle-tested than pure native code, and the codebase is constantly changing, requiring frequent updating (something Swift devs may sympathize with). It's also worth noting that React Native's support for Android lags behind its support for iOS, so newer features and bug fixes don't reach Android quite as quickly.
 
