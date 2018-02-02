@@ -35,7 +35,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Study Swift](http://studyswift.blogspot.com/)
 
-1. [Cleanswifter](http://cleanswifter.com/)
+1. [Clean Swifter](http://cleanswifter.com/)
 
 ### Learning How To Learn
 
@@ -46,14 +46,6 @@ This is a list of Swift and general programming/design resources that I have col
 1. [Janki](https://www.jackkinsella.ie/articles/janki-method)
 
 1. [Unconventional way of learning a new programming language](https://dev.to/sahildua2305/unconventional-way-of-learning-a-new-programming-language)
-
-### Books & Movies
-
-1. [Algorithms Doc on Netflix -- The Secret Rules of Modern Living](https://www.netflix.com/watch/80095881)
-
-1. [The Design of Everyday Things: Revised and Expanded Edition: Don Norman: 9780465050659: Amazon.com: Books](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=WHGSVYASX57DP7FZ4WDN)
-
-1. [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter): Steve Krug: 9780321965516: Amazon.com: Books](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 ### Video Talks & Tutorials
 
@@ -71,7 +63,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 ***
 
-## Particulars
+## Design, Development & Engineering
 
 ### Architecture & Technical Design
 
@@ -107,11 +99,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Ninety-Nine Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/#p07)
 
-### The Circle of Life
-
-1. [Swift Tutorial: Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
-
-1. [The UIViewController Lifecycle](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
+1. [Algorithms Doc on Netflix -- The Secret Rules of Modern Living](https://www.netflix.com/watch/80095881)
 
 ### App Development Process
 
@@ -147,6 +135,10 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Authenticate Using Google Sign-In on iOS -- Firebase](https://firebase.google.com/docs/auth/ios/google-signin?authuser=0)
 
+1. [The Design of Everyday Things: Revised and Expanded Edition: Don Norman: 9780465050659: Amazon.com: Books](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_sbs_14_t_0?ie=UTF8&psc=1&refRID=WHGSVYASX57DP7FZ4WDN)
+
+1. [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter): Steve Krug: 9780321965516: Amazon.com: Books](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
 ### Visual Design
 
 1. [Styling with Swift – MonitiseMEA – Medium](https://medium.com/monitisemea/styling-with-swift-377d4afdb502)
@@ -158,6 +150,16 @@ This is a list of Swift and general programming/design resources that I have col
 1. [Common Mistakes With Adding Custom Fonts to Your iOS App](http://codewithchris.com/common-mistakes-with-adding-custom-fonts-to-your-ios-app/)
 
 1. [App Icon Generator for IOS and Android](https://www.gieson.com/Library/projects/utilities/icon_slayer/)
+
+***
+
+## Working With Swift
+
+### The Circle of Life
+
+1. [Swift Tutorial: Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
+
+1. [The UIViewController Lifecycle](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
 
 ### Strings
 
@@ -171,9 +173,18 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/)
 
+
 ### Dictionaries, Arrays & Sets
 
 1. [Mastering Swift: Tips about array and dictionary literals](https://rainsoft.io/concise-initialization-of-collections-in-swift/)
+
+### Regular Expressions
+
+1. [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
+
+***
+
+## iOS Particulars
 
 ### JSON & Networking
 
@@ -222,10 +233,6 @@ This is a list of Swift and general programming/design resources that I have col
 1. [Using Swift Enumerations Makes Segues Safer](https://www.bignerdranch.com/blog/using-swift-enumerations-makes-segues-safer/)
 
 1. [Nicer Reuse Identifiers with Protocols in Swift – Bleeding Edge – Medium](https://medium.com/bleeding-edge/nicer-reuse-identifiers-with-protocols-in-swift-97d18de1b2df)
-
-### Regular Expressions
-
-1. [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
 
 ### Autolayout
 
