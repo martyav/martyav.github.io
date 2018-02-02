@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-pencil" style="color:#66cc99; font-size:1.5em" aria-hidden="true"> </i> <i class="fa fa-fa-keyboard-o" style="color:#66cc99; font-size:1.5em" aria-hidden="true"> </i><i class="fa fa-gamepad" style="color:#66cc99; font-size:1.5em" aria-hidden="true"></i>
+title: <i class="fa fa-pencil" style="color:#66cc99" aria-hidden="true"> </i> <i class="fa fa-arrow-right" style="color:#66cc99" aria-hidden="true"> </i><i class="fa fa-keyboard-o" style="color:#66cc99" aria-hidden="true"></i>
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
