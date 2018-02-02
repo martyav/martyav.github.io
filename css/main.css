@@ -24,10 +24,14 @@ p {
 }
 p:first-child {
   text-indent: 0;
+  margin-bottom: 0;
 }
 p + p {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   margin-top: 0;
+}
+p:last-child {
+  margin-bottom: 30px;
 }
 li {
   text-indent: 20px;
