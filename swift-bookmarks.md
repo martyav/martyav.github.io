@@ -15,7 +15,6 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [The Swift Programming Language (Swift 2.2): The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 1. [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
-
 1. [About the iOS Technologies](https://developer.apple.com/library/content/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898-CH1-SW1)
 1. [API Reference -- Apple Developer Documentation](https://developer.apple.com/reference)
 1. [Guides and Sample Code](https://developer.apple.com/library/prerelease/content/navigation/#section=Technologies&topic=UIKit)
