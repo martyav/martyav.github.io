@@ -2,8 +2,8 @@
 layout: page
 title: "About me"
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
+show-avatar: true
 ---
-  I'm Marty Hernandez Avedon. I'm a dev with a background in graphic design and writing.  
 
   In a previous life, I made pins, flyers, banners, posters, and cartoons for a variety of small nonprofits and businesses around NYC, such as [Community Health Action of Staten Island](https://www.chasiny.org/) and [Everything Goes Book Cafe](http://www.etgstores.com/bookcafe/). I also ghostwrote numerous short articles for sites such as Amazon and AskJeeves.  		
 
