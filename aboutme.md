@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-pencil" aria-hidden="true"> </i> <i class="fa fa-terminal aria-hidden="true"></i> <i class="fa fa-paint-brush aria-hidden="true"></i></i> 
+title: <i class="fa fa-pencil" aria-hidden="true"> & </i> <i class="fa fa-terminal aria-hidden="true"></i> 
 use-site-title: true
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
