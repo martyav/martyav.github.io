@@ -123,9 +123,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Cloud9 - Your development environment, in the cloud](https://c9.io/)
 
-### Workflow
-
-1. [Mobile Continuous Integration & Deployment for iOS and Android](https://www.buddybuild.com/)
+1. [BuddyBuild for Mobile Continuous Integration & Deployment](https://www.buddybuild.com/)
 
 ### Documenting Code
 
