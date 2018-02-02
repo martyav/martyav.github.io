@@ -61,7 +61,7 @@ avatar: "/img/MAsigilSeafoam.png" # The image causes some issues with overlappin
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#B8F2C9"
+navbar-col: "#A4F2A8"
 navbar-text-col: "#606060"
 navbar-children-col: "#F5f5f5"
 page-col: "#FFFFFF"
