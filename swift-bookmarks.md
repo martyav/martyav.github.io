@@ -155,11 +155,9 @@ This is a list of Swift and general programming/design resources that I have col
 
 ## Working With Swift
 
-### The Circle of Life
+### Classes
 
 1. [Swift Tutorial: Initialization In Depth, Part 2/2](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
-
-1. [The UIViewController Lifecycle](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
 
 ### Strings
 
@@ -233,6 +231,10 @@ This is a list of Swift and general programming/design resources that I have col
 1. [Using Swift Enumerations Makes Segues Safer](https://www.bignerdranch.com/blog/using-swift-enumerations-makes-segues-safer/)
 
 1. [Nicer Reuse Identifiers with Protocols in Swift – Bleeding Edge – Medium](https://medium.com/bleeding-edge/nicer-reuse-identifiers-with-protocols-in-swift-97d18de1b2df)
+
+### ViewControllers
+
+1. [The UIViewController Lifecycle](http://roadfiresoftware.com/2015/01/ios-essentials-the-uiviewcontroller-lifecycle/)
 
 ### Autolayout
 
