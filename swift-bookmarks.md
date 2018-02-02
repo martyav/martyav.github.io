@@ -4,7 +4,9 @@ title: "Swift Bookmark Master List"
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
-* This autogenerates a table of contents. Please do not remove
+This is a list of Swift and general programming/design resources that I have collected since 2016. It started as bare HTML, exported directly from my browser, and I'm working steadily to make it more usable and easier to navigate via Markdown.
+
+* Table of Contents
 {:toc}
 
 ## General
