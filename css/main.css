@@ -26,7 +26,7 @@ p:first-child {
   text-indent: 0;
   margin-bottom: 5px;
 }
-p + p {
+p + p, p + ol, p + ul {
   margin-bottom: 5px;
   margin-top: 0;
 }
