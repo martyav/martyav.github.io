@@ -7,15 +7,13 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 use-site-title: true
 ---
 
-<div class="typed-js-hide">
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I write about <span class="typed" style="color:#a50509";></span></h1>
+          <h1>I write about</h1>
       </div>
     </div>
   </div>
-</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
