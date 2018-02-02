@@ -164,6 +164,7 @@ kramdown:
   input: GFM
   parse_block_html: true
   auto_ids: true
+  gfm_quirks: paragraph_end
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
