@@ -7,13 +7,7 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
 use-site-title: true
 ---
 
-  <div class="row">
-    <div class="col-sm-12">
-      <div class="text-center">
-          <h1>I write about</h1>
-      </div>
-    </div>
-  </div>
+<h1>AAAAAAAH</h1>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
