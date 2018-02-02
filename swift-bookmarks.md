@@ -75,8 +75,6 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Stanford - Developing iOS 9 Apps with Swift - 2\. Applying MVC - YouTube](https://www.youtube.com/watch?v=j50mPzDMWVQ)
 
-1. [clean_code.pdf](http://ricardogeek.com/docs/clean_code.pdf)
-
 1. [Trygve/MVC](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html)
 
 1. [Origins of Model View Controller – Duncan maina – Medium](https://medium.com/@duncandevs/origins-of-model-view-controller-d685528857ce)
