@@ -35,6 +35,8 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Study Swift](http://studyswift.blogspot.com/)
 
+1. [Cleanswifter](http://cleanswifter.com/)
+
 ### Learning How To Learn
 
 1. [The Learning Toolbox - Cornell Notes](http://coe.jmu.edu/learningtoolbox/cornellnotes.html)
@@ -124,8 +126,6 @@ This is a list of Swift and general programming/design resources that I have col
 ### Workflow
 
 1. [Mobile Continuous Integration & Deployment for iOS and Android](https://www.buddybuild.com/)
-
-1. [cleanswifter.com - My journey to writing clean Swift code with tests, automation, and design patterns](http://cleanswifter.com/)
 
 ### Documenting Code
 
