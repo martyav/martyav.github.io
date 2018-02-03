@@ -24,6 +24,7 @@ description: "Marty Hernandez Avedon's developer site."
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme" # if the link's a markdown file in the root directory you can write it like this
+  Posts: "https://martyav.github.io/#recent-posts"
   Articles:  
     - Ten Key Resources for Beginner iOS Devs: "https://medium.com/@MartianAviary/ten-key-resources-for-beginner-ios-devs-caba2b83f67c"
     - Swift Basics: "https://github.com/martyav/swiftBasics"
