@@ -308,7 +308,10 @@ footer p.text-muted {
 footer a {
   color: {{site.footer-link-col}};
 }
-
+footer li {
+  text-indent: 0;
+  padding-bottom: 0;
+}
 footer .list-inline {
   margin: 0;
   padding: 0;
