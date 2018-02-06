@@ -7,9 +7,11 @@ The second-to-last session at last week's [Android@Scale](https://atscaleconfere
 
 Google defines Strict Mode as "a developer tool which detects things you might be doing by accident". When you turn it on, you get extensive warnings about issues that can slow the app down or make it feel unresponsive. These are problems you might not ever notice otherwise when you are testing. 
 
-While you, as a developer, may be using top technology as a matter of pride, many Android users in the rest of the world own older phones with low-quality parts. It's what they can afford. However, when you test your app on a top-of-the-line phone, and someone using an end-of-the-line phone downloads it, they may encounter dropped frames and memory leaks that slow the app to a crawl. You, on your expensive phone, never noticed these problems because you had the horsepower to charge over these issues. Less powerful phones are more sensitive to these problems — and then you get an irritated userbase.
+While you, as a developer, may be using top technology as a matter of pride, many Android users in the rest of the world own older phones with low-quality parts. It's what they can afford. However, when you test your app on a top-of-the-line phone, and someone using an end-of-the-line phone downloads it, they may encounter dropped frames and memory leaks that slow the app to a crawl. 
 
-Strict Mode can detect slow calls, resource mismatches, expensive unbuffered IO operations, network calls that wind up on the main thread, and read/write operations, which have particularly unpredictable timing. Strict Mode can also detect [virtual machine leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java), though you can also use the open source library [Leak Canary](https://github.com/square/leakcanary).
+You, on your expensive phone, never noticed these problems because you had the horsepower to make them practically invisible. Less-powerful phones are more sensitive to these problems — and then you get an irritated userbase.
+
+Strict Mode can detect slow calls, resource mismatches, expensive unbuffered IO operations, network calls that wind up on the main thread, and read/write operation which have particularly unpredictable timing. Strict Mode can also detect [virtual machine leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java), though you can also use the open source library [Leak Canary](https://github.com/square/leakcanary) to detect these.
 
 You can turn on Strict Mode by calling a builder in your app's onCreate(). Make sure you turn this off in any user builds — having Strict Mode silently run can make things slightly slower.
 
