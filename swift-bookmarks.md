@@ -13,7 +13,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 ### Apple Docs
 
-1. [The Swift Programming Language (Swift 2.2): The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+1. [The Swift Programming Language (Swift 4.1): The Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
 1. [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 1. [About the iOS Technologies](https://developer.apple.com/library/content/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898-CH1-SW1)
 1. [API Reference -- Apple Developer Documentation](https://developer.apple.com/reference)
@@ -41,10 +41,19 @@ This is a list of Swift and general programming/design resources that I have col
 1. [Stanford - Developing iOS 9 Apps with Swift - 1\. Course Overview and iOS9 introduction - YouTube](https://www.youtube.com/watch?v=_lRx1zoriPo&list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkTa)
 1. [Last Year’s RWDevCon 2016 Vault Now Free!](https://www.raywenderlich.com/159851/rwdevcon-2016-vault-now-free)
 1. [Videos from SwiftConf](https://swiftconf.com/videos/)
+1. [GDC Vault -- Talks & Slides About Game Development](https://www.gdcvault.com/)
+1. [try! Swift Conference Videos](https://academy.realm.io/conference_series/try-swift/)
+
+### Comparisons
+
+1. [Swift Is Like Scala](https://leverich.github.io/swiftislikescala/)
+1. [Swift Is Like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)
+1. [Swift vs Objective-C](https://www.apriorit.com/dev-blog/408-objective-c-vs-swift)
 
 ### In-person Tech Resources
 
 1. [The Recurse Center](https://www.recurse.com/)
+1. [Amazon Loft Space](https://aws.amazon.com/start-ups/loft/ny-loft/)
 
 ***
 
@@ -68,6 +77,7 @@ This is a list of Swift and general programming/design resources that I have col
 
 ### DSA
 
+1. [Harvard's CS50 Computer Science Fundamentals](https://study.cs50.net/)
 1. [raywenderlich/swift-algorithm-club: Algorithms and data structures in Swift, with explanations!](https://github.com/raywenderlich/swift-algorithm-club)
 1. [Code Briefing: A gentle introduction to how the Stack data structure works](https://medium.freecodecamp.com/code-briefing-a-gentle-introduction-to-how-the-stack-data-structure-works-937b941276#.gmuy8e2ig)
 1. [Coderbyte -- The #1 Website for Coding Challenges](https://www.coderbyte.com/)
@@ -86,6 +96,13 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Documenting Code in Xcode the Right Way - PeterWitham.com](https://peterwitham.com/swift-archives/documenting-swift-code-in-xcode/?utm_content=buffere0e1b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 1. [The truth is in the code – freeCodeCamp](https://medium.freecodecamp.com/the-truth-is-in-the-code-86a712362c99)
+
+### Testing 
+
+1. [What exactly is a "unit" in unit testing?](https://dev.to/ruidfigueiredo/what-exactly-is-a-unit-in-unit-testing)
+1. [Introduction to Unit Tests](https://medium.com/practical-ios-development/introduction-to-ios-unit-tests-6ea1ff4e961c)
+1. [Getting Started With UI Tests](https://medium.com/@johnsundell/getting-started-with-xcode-ui-testing-in-swift-ac7b1f5101e5)
+1. [Four simple rules for architecting iOS unit tests](https://medium.com/practical-ios-development/the-anatomy-of-a-well-architected-ios-unit-test-a509d2be9ec0)
 
 ### UX & UI
 
@@ -152,10 +169,6 @@ This is a list of Swift and general programming/design resources that I have col
 
 1. [Magical Error Handling in Swift](https://www.raywenderlich.com/130197/magical-error-handling-swift)
 1. [Use the debug area to control and inspect your running app - Xcode Help](http://help.apple.com/xcode/mac/8.0/#/devda5478599)
-
-### Testing
-
-1. [What exactly is a "unit" in unit testing?](https://dev.to/ruidfigueiredo/what-exactly-is-a-unit-in-unit-testing)
 
 ### Notifications
 
