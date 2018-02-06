@@ -13,7 +13,7 @@ You, on your expensive phone, never noticed these problems because you had the h
 
 Strict Mode can detect slow calls, resource mismatches, expensive unbuffered IO operations, network calls that wind up on the main thread, and read/write operation which have particularly unpredictable timing. Strict Mode can also detect [virtual machine leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java), though you can also use the open source library [Leak Canary](https://github.com/square/leakcanary) to detect these.
 
-You can turn on Strict Mode by calling a builder in your app's onCreate(). Make sure you turn this off in any user builds — having Strict Mode silently run can make things slightly slower.
+You can turn on Strict Mode by calling a builder in onCreate(). Make sure you turn this off in any user builds — having Strict Mode silently run can make things slightly slower.
 
 If you start up Strict Mode and encounter some warnings, here are some common fixes:
 
