@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Android <==> iOS"
+title: "Android <=> iOS"
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
