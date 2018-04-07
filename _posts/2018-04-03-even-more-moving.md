@@ -3,7 +3,7 @@ layout: post
 title: "Even More Moving"
 ---
 
-Between [last post](https://martyav.github.io/2018-03-27-hello-seattle/) and this one, I was able to land housing. I'd been living in temporary housing since late 2015, so, needless to say, I'm very relieved. I spent the weekend going back and forth from Target.
+Between [last post](https://martyav.github.io/2018-03-27-hello-seattle/) and this one, I was able to land housing. I'd been living in temporary housing since late 2016, so, needless to say, I'm very relieved. I spent the weekend going back and forth from Target.
 
 The new place is very small, and came with a bed, a desk, and not much else. It's centrally located, though, so I'm no longer traveling two or three miles out just to pick up groceries. 
 
