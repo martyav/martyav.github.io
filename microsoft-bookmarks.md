@@ -30,3 +30,8 @@ If you want to know more about my time at LEAP, I wrote some blog posts, startin
 
 # Databases
 1. [Relational Databases vs Non-relational Databases](http://www.jamesserra.com/archive/2015/08/relational-databases-vs-non-relational-databases/)
+
+# Print Books
+1. [I Sing The Body Electronic, by Fred Moody](https://www.goodreads.com/book/show/840725.I_Sing_the_Body_Electronic)
+1. [Design Patterns in C#, by Steven John Metsker](https://www.goodreads.com/book/show/85038.Design_Patterns_in_C_)
+1. [The Old New Thing, by Raymond Chen](https://www.goodreads.com/book/show/194791.The_Old_New_Thing)
