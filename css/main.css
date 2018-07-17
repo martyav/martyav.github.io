@@ -57,7 +57,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
-  text-decoration-style: double;
+  text-decoration-style: solid;
   color: {{ site.hover-col }};
 }
 blockquote {
