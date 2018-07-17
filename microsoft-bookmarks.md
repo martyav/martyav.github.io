@@ -10,6 +10,7 @@ Unfortunately, many of the links I bookmarked while I was at Microsoft won't wor
 
 If you want to know more about my time at LEAP, I wrote some blog posts, starting [here](https://martyav.github.io/2018-02-28-moving-and-changing/).
 
+
 * Table of Contents
 {:toc}
 
