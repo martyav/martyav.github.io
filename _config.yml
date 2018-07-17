@@ -37,6 +37,7 @@ navbar-links:
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
     - Android compared with iOS: "android-ios"
+    - C# and Azure: "microsoft-bookmarks"
   Projects: 
     - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
     - Swifty CodingBat: "https://github.com/martyav/swiftyCodingBat"
