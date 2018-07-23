@@ -36,8 +36,8 @@ navbar-links:
     - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
-    - Android compared with iOS: "android-ios"
     - C# and Azure: "microsoft-bookmarks"
+    - Android compared with iOS: "android-ios"
   Projects: 
     - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
     - Swifty CodingBat: "https://github.com/martyav/swiftyCodingBat"
