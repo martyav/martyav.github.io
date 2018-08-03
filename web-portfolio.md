@@ -29,8 +29,7 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
                     Survey 
                 </div>
                 <div class = "preview">
-                    <img src = "https://preview.ibb.co/krihRK/Screenshot_154.png
-" />
+                    <img src = "https://preview.ibb.co/krihRK/Screenshot_154.png" />
                 </div>
                 <div class = "description">
                     <a href = "https://martyav.github.io/surveyDemo/">A survey</a> with more choices than most
@@ -44,8 +43,7 @@ share-img: "martyav.github.io/img/softserveTwilight.jpg"
                     Landing Page
                 </div>
                 <div class = "preview">
-                    <img src = "https://preview.ibb.co/cRe0Dz/Screenshot_153.png
-" />
+                    <img src = "https://preview.ibb.co/cRe0Dz/Screenshot_153.png" />
                 </div>
                 <div class = "description">
                     <a href = "https://martyav.github.io/landingPageDemo/">A landing page</a> for a far-out travel agency
