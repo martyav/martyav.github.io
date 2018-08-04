@@ -1,10 +1,163 @@
 ---
-layout: page
+layout: default
 title: Web Portfolio 
 use-site-title: true
 share-img: "martyav.github.io/img/softserveTwilight.jpg"
 ---
 
+<style>
+body {
+    --main-color: white;
+    --main-text: #333;
+    --accent-color: #009933;
+    --accent-text: white;
+    --hover-color: black;
+    --hover-text: lime;
+    
+    font-family: "Roboto Slab", serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: var(--main-color);
+    color: var(--main-text);
+}
+
+@media (max-width: 550px) {
+    #projects {
+        height: initial !important;
+        width: 100%;
+        display: flex !important;
+        clear: both;
+        flex-direction: column !important;
+        align-content: center;
+        justify-content: space-around;
+    }
+    
+    .project-tile {
+        width: 100% !important;
+        height: auto !important;
+        grid-gap: 16px !important;
+    }
+    
+    #tribute {
+        border: 0 !important;
+        background-color: white;
+    }
+
+    #survey {
+        border: 0 !important;
+        background-color: silver !important;
+    }
+
+    #landing-page {
+        border: 0 !important;
+        background-color: white;
+    }
+
+    #tech-doc {
+        border: 0 !important;
+        background-color: silver !important;
+    }
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: var(--accent-color);
+}
+
+a:hover {
+    background-color: var(--hover-color);
+    color: var(--hover-text);
+}
+
+h2 {
+    width: 100vw;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#projects {
+    width: 100vw;
+    border-top: 1px solid black;
+    display: grid;
+    grid-template-areas: 
+        "tribute survey"
+        "landing-page tech-doc";
+    grid-gap: 25px;
+    align-items: stretch;
+    justify-items: stretch;
+    font-family: "Roboto Slab", serif;
+}
+
+#tribute {
+    grid-area: tribute;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    background-color: white;
+}
+
+#survey {
+    grid-area: survey;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    background-color: white;
+}
+
+#landing-page {
+    grid-area: landing-page;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    background-color: white;
+}
+
+#tech-doc {
+    grid-area: tech-doc;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    background-color: white;
+}
+
+.project-tile {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    align-items: baseline;
+    justify-content: center;
+    grid-rows: repeat(5, 1fr); 
+    grid-columns: repeat(5, 1fr);
+}
+
+.project-tile .number {
+    grid-row: 1/2;
+    grid-column: 1/2;
+    font-size: 4em;
+}
+
+.project-tile .name {
+    grid-row: 1/2;
+    grid-column: 2/6;
+    font-size: 2em;
+    border-bottom: 1px solid black;
+}
+
+.project-tile .preview {
+    grid-row: 3/5;
+    grid-column: 3/5;
+    align-self: center;
+}
+
+.project-tile .preview img {
+    width: 100%;
+    height: auto;
+}
+
+.project-tile .description {
+    grid-row: 5/6;
+    grid-column: 3/6;
+    font-size: 18px;
+} 
+</style>
 <h2>Projects</h2>
         <section id = "projects">
             <div class = "project-tile" id = "tribute">
