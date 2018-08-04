@@ -39,7 +39,7 @@ navbar-links:
     - C# and Azure: "microsoft-bookmarks"
     - Android compared with iOS: "android-ios"
   Projects: 
-  - Survey Demo: "surveyDemo"
+  - Web Demos: "https://martyav.github.io/web-portfolio/"
   - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
   - Ida B. Wells Tribute: "IdaBWellsWithGridTimeline"
   - React Word & Curse Counter: "https://codepen.io/martyav/full/ajZEGw/"
