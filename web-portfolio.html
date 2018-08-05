@@ -62,6 +62,10 @@ body {
         background-color: silver !important;
     }
 }
+    
+h1 {
+    margin: 32px;
+}
 
 #projects {
     width: 100vw;
@@ -121,7 +125,7 @@ body {
     grid-row: 1/2;
     grid-column: 2/6;
     font-size: 2em;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #000;
 }
 
 .project-tile .preview {
@@ -129,10 +133,15 @@ body {
     grid-column: 3/5;
     align-self: center;
 }
+    
+.project-tile .preview img:hover {
+    border: 1px solid {{ site.hover-col }};
+}
 
 .project-tile .preview img {
     width: 100%;
     height: auto;
+    border: 1px solid #000;
 }
 
 .project-tile .description {
@@ -142,7 +151,10 @@ body {
     margin-top: 16px;
     margin-bottom: 16px;
 } 
+    
+    
 </style>
+
 <h1>Web Demos</h1>
         <section id = "projects">
             <div class = "project-tile" id = "tribute">
@@ -154,7 +166,7 @@ body {
                 </div>
                 <div class = "preview">
                     <a href = "https://martyav.github.io/tribute-page-demo/">
-                        <img src = "https://preview.ibb.co/jdL7tz/Screenshot_155.png" alt = "preview"/>
+                        <img src = "https://raw.githubusercontent.com/martyav/martyav.github.io/master/img/tribute.png" alt = "preview of tribute page"/>
                     </a>
                 </div>
                 <div class = "description">
@@ -170,7 +182,7 @@ body {
                 </div>
                 <div class = "preview">
                     <a href = "https://martyav.github.io/survey-demo/">
-                        <img src = "https://preview.ibb.co/krihRK/Screenshot_154.png" alt = "preview"/>
+                        <img src = "https://raw.githubusercontent.com/martyav/martyav.github.io/master/img/survey.png" alt = "preview of survey page"/>
                     </a>
                 </div>
                 <div class = "description">
@@ -186,7 +198,7 @@ body {
                 </div>
                 <div class = "preview">
                     <a href = "https://martyav.github.io/landing-page-demo/">
-                        <img src = "https://preview.ibb.co/cRe0Dz/Screenshot_153.png" alt = "preview"/>
+                        <img src = "https://raw.githubusercontent.com/martyav/martyav.github.io/master/img/landing-page.png" alt = "preview of landing page"/>
                     </a>
                 </div>
                 <div class = "description">
@@ -202,7 +214,7 @@ body {
                 </div>
                 <div class = "preview">
                     <a href = "https://martyav.github.io/tech-doc-demo/">
-                        <img src = "https://preview.ibb.co/mNvwmK/Screenshot_156.png" alt = "preview"/>
+                        <img src = "https://raw.githubusercontent.com/martyav/martyav.github.io/master/img/tech-doc.png" alt = "preview of tech doc page"/>
                     </a>
                 </div>
                 <div class = "description">
