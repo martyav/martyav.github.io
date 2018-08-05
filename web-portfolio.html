@@ -7,17 +7,8 @@ share-img: "martyav.github.io/img/webDemo.png"
 
 <style>
 body {
-    --main-color: white;
-    --main-text: #333;
-    --accent-color: #009933;
-    --accent-text: white;
-    --hover-color: black;
-    --hover-text: lime;
-    
     margin: 0 !important;
     padding: 0 !important;
-    background-color: var(--main-color);
-    color: var(--main-text);
 }
     
 .container {
@@ -61,10 +52,6 @@ body {
         border: 0 !important;
         background-color: silver !important;
     }
-}
-    
-h1 {
-    margin: ;
 }
 
 #projects {
@@ -133,14 +120,14 @@ h1 {
     grid-column: 3/5;
     align-self: center;
 }
-    
-.project-tile .preview img:hover, .project-tile .preview img:focus,  {
-    border: 1px solid {{ site.hover-col }};
-}
 
 .project-tile .preview img {
     width: 100%;
     height: auto;
+    border: 1px solid #72be76;
+}
+
+.project-tile .preview img:hover, .project-tile .preview img:focus  {
     border: 1px solid #000;
 }
 
