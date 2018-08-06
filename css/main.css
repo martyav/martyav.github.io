@@ -61,7 +61,8 @@ a:focus {
   color: {{ site.hover-col }};
 }
 img {
-  margin: 15px;
+  margin-top: 32px;
+  margin-bottom: 32px;
 }
 blockquote {
   color: #808080;
