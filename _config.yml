@@ -25,7 +25,9 @@ description: "Marty Hernandez Avedon's developer site."
 navbar-links:
   About Me: "about-me" # if the link's a markdown file in the root directory you can write it like this
   Blog: "blog-posts"
-  Other Articles:  
+  Other Articles:
+    - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
+    - Reverse A String In Every Language, Swift: "https://therenegadecoder.com/code/reverse-a-string-in-swift/"
     - Ten Key Resources for Beginner iOS Devs: "https://medium.com/@MartianAviary/ten-key-resources-for-beginner-ios-devs-caba2b83f67c"
     - Swift Basics: "https://github.com/martyav/swiftBasics"
     - Git Basics: "https://github.com/martyav/git-CLI-cheat-sheet"
@@ -33,7 +35,6 @@ navbar-links:
     - TicTacToe Demo: "https://github.com/martyav/ticTacToeHomework"
     - Nib Walkthrough: "https://github.com/martyav/nibPractice"
     - Splash Animation Overview: "https://medium.com/@MartianAviary/making-a-splash-93d9ae8f1696"
-    - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
     - C# and Azure: "microsoft-bookmarks"
