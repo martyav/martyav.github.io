@@ -15,4 +15,4 @@ In early 2018, I received a [Grow With Google](https://developers.googleblog.com
 
 I like old-school video games, zoology, monsters, and digging through whatever Wikihole I've currently tumbled into.
 
-You can find me on Github at [martyav](https://github.com/martyav), and on Twitter at [MHA_from_NYC](https://twitter.com/MHA_from_NYC). If you want to get in touch more directly, you can send me a comment via the [Contact](https://goo.gl/forms/GAB9KQMxD9bRsiK83) page.
+You can find me on Github at [martyav](https://github.com/martyav), and on Twitter at [MartyAvedon](https://twitter.com/MartyAvedon). If you want to get in touch more directly, you can send me a comment via the [Contact](https://goo.gl/forms/GAB9KQMxD9bRsiK83) page.
