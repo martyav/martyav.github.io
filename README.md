@@ -1,4 +1,4 @@
-# [Martyav.github.io](martyav.github.io)
+# [https://martyav.github.io](https://martyav.github.io)
 
 ![A screenshot of my website header, featuring white text on a black background displaying the XCode IDE. The text states, "Hey, It's Marty. He Writes, He Codes, He Draws"](https://martyav.github.io/img/Screen%20Shot%202018-02-12%20at%2004.28.29.png)
 
