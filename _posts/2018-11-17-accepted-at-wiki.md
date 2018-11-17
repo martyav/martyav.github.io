@@ -3,7 +3,7 @@ layout: post
 title: Accepted Wikimedia Foundation Internship
 ---
 
-After a month of hard work updating and improving articles on MediaWiki's API's, and writing Python sample code making GET calls, I found out that I'll be [interning with Wikimedia Foundation's software arm](https://twitter.com/Wikimedia/status/1063552591701848064), Mediawiki. 
+After a month of hard work updating and improving articles on Mediawiki's API's, and writing Python sample code making GET calls, I found out that I'll be [interning with the Wikimedia Foundation](https://twitter.com/Wikimedia/status/1063552591701848064). 
 
 Over the course of the winter into early spring, I'll be working on 40 to 50 articles describing how to use the Mediawiki REST API, as well as developing a web app to demonstrate how to use it. 
 
