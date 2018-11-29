@@ -37,7 +37,7 @@ navbar-links:
     - C# and Azure: "microsoft-bookmarks"
     - Android compared with iOS: "android-ios"
   Projects: 
-    - Drawing Pad:"https://github.com/martyav/drawing-pad"
+    - Drawing Pad: "https://github.com/martyav/drawing-pad"
     - Web Demos: "https://martyav.github.io/2018-08-06-web-demos/"
     - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
     - Call Your Reps: "https://github.com/martyav/Ac3.2-groupFive-Voting"
