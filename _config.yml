@@ -29,26 +29,19 @@ navbar-links:
   About Me: "about-me" # if the link's a markdown file in the root directory you can write it like this
   Blog: "blog-posts"
   Other Articles:
+    - Reverse A String In Swift: "https://therenegadecoder.com/code/reverse-a-string-in-swift/"
+    - Fizz Buzz in Swift: "https://sample-programs.therenegadecoder.com/projects/fizz-buzz/swift/"
     - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
-    - Reverse A String In Every Language, Swift: "https://therenegadecoder.com/code/reverse-a-string-in-swift/"
-    - Ten Key Resources for Beginner iOS Devs: "https://medium.com/@MartianAviary/ten-key-resources-for-beginner-ios-devs-caba2b83f67c"
-    - Swift Basics: "https://github.com/martyav/swiftBasics"
-    - Git Basics: "https://github.com/martyav/git-CLI-cheat-sheet"
-    - Basic TableView in iOS: "https://github.com/martyav/basicTableMVC"
-    - TicTacToe Demo: "https://github.com/martyav/ticTacToeHomework"
-    - Nib Walkthrough: "https://github.com/martyav/nibPractice"
-    - Splash Animation Overview: "https://medium.com/@MartianAviary/making-a-splash-93d9ae8f1696"
   Bookmarks: # the elements with dashes are part of a drop down menu
     - Swift: "swift-bookmarks"
     - C# and Azure: "microsoft-bookmarks"
     - Android compared with iOS: "android-ios"
   Projects: 
-  - Web Demos: "https://martyav.github.io/2018-08-06-web-demos/"
-  - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
-  - React Word & Curse Counter: "https://codepen.io/martyav/full/ajZEGw/"
-  - Call Your Reps iOS app: "https://github.com/martyav/Ac3.2-groupFive-Voting"
-  - Emoji Deck: "https://github.com/martyav/EmojiDeck"
-  - Capstone: "https://github.com/C4Q/AC3.2-weLearn"
+    - Drawing Pad:"https://github.com/martyav/drawing-pad"
+    - Web Demos: "https://martyav.github.io/2018-08-06-web-demos/"
+    - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
+    - Call Your Reps: "https://github.com/martyav/Ac3.2-groupFive-Voting"
+    - WeLearn: "https://github.com/C4Q/AC3.2-weLearn"
   Contact: "https://goo.gl/forms/GAB9KQMxD9bRsiK83" 
     
 # Image to show in the navigation bar - image must be a square (width = height)
