@@ -1,3 +1,4 @@
+---
 layout: post
 title: New Post On Renegade Coder
 ---
