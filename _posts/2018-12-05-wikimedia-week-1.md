@@ -79,7 +79,9 @@ If I had continued investigating the problems I ran into with Ceph, I probably c
 
 Even if you don't come from a traditional tech background, don't feel like you're less and drop out early. You might actually be one of only a handful of active people on the project, and have a better chance than you think. 
 
-For someone from a different background, your past experiences on other projects and in other careers are powerful and useful. I think my experience as a writer helped me a lot to land my current internship, both because I already had the skills in place, and because I could point to my previous work outside of tech as proof that I could perform what they needed.
+For someone from a different background, your past experiences on other projects and in other careers are powerful and useful. Organizations participating in Outreachy want your unique skills and experiences, as well as your technical expertise. Don't be afraid to point to what you know and who you are, outside of tech.
+
+---
 
 I'm really glad to be on board, and eagerly await my first video chat with my mentors. It's later today. 
 
