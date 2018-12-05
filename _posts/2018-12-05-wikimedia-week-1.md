@@ -9,7 +9,7 @@ Never set up a feed before? Me either. RSS, though quite old, is new to me, as i
 
 Outreachy is the program funding my paid internship, and it is also sponsoring a multitude of internships at other organizations, including [Mozilla](https://www.mozilla.org/en-US/) and [Ceph](https://ceph.com/).
 
-Outreachy is aimed at cis and trans women, trans men, genderqueer folks, and peple of color. I learned about it from an LGBT Slack I visit. I decided to apply because I was looking for entry-level work doing web, and I've been curious, yet  wary, about participating in open source. 
+Outreachy is aimed at cis and trans women, trans men, genderqueer folks, and people of color. I learned about it from an LGBT Slack I visit. I decided to apply because I was looking for entry-level work doing web, and I've been curious, yet  wary, about participating in open source. 
 
 I do contribute to [Renegade Coder](https://therenegadecoder.com/), and I host almost all of my side projects on Github, but I haven't felt comfortable or ready to join bigger open source communities with people I don't know or trust. 
 
