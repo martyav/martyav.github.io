@@ -39,7 +39,9 @@ I suspect the final issue I ran into was actually due to my version of Python. A
 
 While I was trying to get Ceph to build and contacting mentors for help, I was also exploring the Wikimedia project, for improving MediaWiki's top 50 API documentation pages.
 
-The Wikimedia project drew me because it involved a mix of Python, writing, and web. I like coding and I like writing, so it was definitely attractive. Even better, the doc writing involved getting really familiar with a variety of APIs, which meant I'd learn a lot about how the project was designed overall, and how web APIs work. I'd also be helping other people learn how to use the APIS.
+The Wikimedia project drew me because it involved a mix of Python, writing, and web. I like coding and I like writing, so it was definitely attractive. 
+
+Even better, the doc writing involved getting really familiar with a variety of APIs, which meant I'd learn a lot about how the project was designed overall, and how web APIs work. I'd also be helping other people learn how to use the APIs.
 
 At first, I was a little overwhelmed by the amount of information on the project, and how much of it was spread out. There were instructions on the Outreachy site, on [Phabricator](https://readwrite.com/2011/09/28/a-look-at-phabricator-facebook/), on [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), and I wasn't even entirely sure [what the differences between MediaWiki, Wikimedia, and Wikipedia were](https://www.mediawiki.org/wiki/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki). 
 
