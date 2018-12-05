@@ -81,4 +81,10 @@ Even if you don't come from a traditional tech background, don't feel like you'r
 
 For someone from a different background, your past experiences on other projects and in other careers are powerful and useful. I think my experience as a writer helped me a lot to land my current internship, both because I already had the skills in place, and because I could point to my previous work outside of tech as proof that I could perform what they needed.
 
-Being in tech is all about learning. If you get too closeminded and discouraged, you fall behind. Nobody comes into it fully formed -- even if they think they know everything.  
+I'm really glad to be on board, and eagerly await my first video chat with my mentors. It's later today. 
+
+Since I'm working remotely, I spent most of my first day establishing a routine for myself so I have habit to fall back on when I'm not feeling great. I try to work for an hour or two, then get up and take a break. When I come back, I switch tasks, so I'm not draining myself by concentrating intensely on something for too long. 
+
+With writing, as with coding, you can get caught up in details to the point that you're actually blocking yourself from making any progress. It's important to know when to take a break.
+
+Speaking of breaks, my next blog post is due in two weeks. I have a lot of work to do until then: tightening up my app proposal, starting articles, learning Flask. So, thanks for reading, and don't forget to sign up for my feed if you want to keep in touch!
