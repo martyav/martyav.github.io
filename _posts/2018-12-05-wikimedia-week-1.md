@@ -29,7 +29,7 @@ You introduce yourself to the project you've chosen, make some contributions, an
 
 During the trial period, you can work on multiple projects at once, to see what you like and if you'd be a good fit for the community. 
 
-I initially set to work on Ceph, as well as on Wikimedia, after Outreach approved me.
+I initially set to work on Ceph, as well as on Wikimedia, after Outreachy approved me.
 
 I was attracted to Ceph because they seemed to be doing an open source version of my work at Azure, and because they were using Python, a language I like but haven't used much. 
 
