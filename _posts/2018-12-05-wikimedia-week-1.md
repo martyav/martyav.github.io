@@ -83,7 +83,7 @@ For someone from a different background, your past experiences on other projects
 
 I'm really glad to be on board, and eagerly await my first video chat with my mentors. It's later today. 
 
-Since I'm working remotely, I spent most of my first day establishing a routine for myself so I have habit to fall back on when I'm not feeling great. I try to work for an hour or two, then get up and take a break. When I come back, I switch tasks, so I'm not draining myself by concentrating intensely on something for too long. 
+I spent most of my first day, yesterday, establishing a routine for myself, since I'm working remotely. It's good to have habit to fall back on when I'm not feeling great. I try to work for an hour or two, then get up and take a break. When I come back, I switch tasks, so I'm not draining myself by concentrating intensely on something for too long. 
 
 With writing, as with coding, you can get caught up in details to the point that you're actually blocking yourself from making any progress. It's important to know when to take a break.
 
