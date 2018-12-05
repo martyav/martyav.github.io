@@ -28,20 +28,26 @@ description: "Marty Hernandez Avedon's developer site."
 navbar-links:
   #About Me: "about-me" # if the link's a markdown file in the root directory you can write it like this
   Blog: "blog-posts"
-  Other Articles:
-    - Reverse A String In Swift: "https://therenegadecoder.com/code/reverse-a-string-in-swift/"
-    - Fizz Buzz in Swift: "https://sample-programs.therenegadecoder.com/projects/fizz-buzz/swift/"
-    - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
-  Bookmarks: # the elements with dashes are part of a drop down menu
-    - Swift: "swift-bookmarks"
-    - C# and Azure: "microsoft-bookmarks"
-    - Android compared with iOS: "android-ios"
-  Projects: 
+  Projects:
+    - Mediawiki: "https://github.com/martyav/MediaWiki-Action-API-Code-Samples"
     - Drawing Pad: "https://github.com/martyav/drawing-pad"
     - Web Demos: "https://martyav.github.io/2018-08-06-web-demos/"
     - Server-side Swift Tarot: "https://github.com/martyav/tarotReader"
     - Call Your Reps: "https://github.com/martyav/Ac3.2-groupFive-Voting"
     - WeLearn: "https://github.com/C4Q/AC3.2-weLearn"
+  Articles:
+    - Reverse A String In Swift: "https://therenegadecoder.com/code/reverse-a-string-in-swift/"
+    - Fizz Buzz in Swift: "https://sample-programs.therenegadecoder.com/projects/fizz-buzz/swift/"
+    - Interview with C4Q: "https://medium.com/@C4Q/introducing-marty-hernandez-avedon-341e138e3f45"
+  Tutorials:
+    - Nibs: "https://github.com/martyav/nibPractice"
+    - Git Cheat Sheet: "https://github.com/martyav/git-CLI-cheat-sheet"
+    - Basic UITableview: "https://github.com/martyav/basicTableMVC"
+    - Swift Syntax: "https://github.com/martyav/swiftBasics"
+  Bookmarks: # the elements with dashes are part of a drop down menu
+    - Swift: "swift-bookmarks"
+    - C# and Azure: "microsoft-bookmarks"
+    - Android compared with iOS: "android-ios"
   Contact: "https://goo.gl/forms/GAB9KQMxD9bRsiK83" 
     
 # Image to show in the navigation bar - image must be a square (width = height)
