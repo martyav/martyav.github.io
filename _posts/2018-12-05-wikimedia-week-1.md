@@ -67,7 +67,7 @@ It seemed like I was doing everything at once.
 
 Then I made my final edits, submitted my proposal, and waited.
 
-The next few weeks felt very long. I briefly continued to edit the last article, but I couldn't get too far without being a translation admin. I went on more interviews, and visited my old bootcamp for DSA paractice. I met with a friend from [LEAP](http://www.industryexplorers.com/), who encouraged me to learn C++, since his team was hiring. 
+The next few weeks felt very long. I briefly continued to edit the last article, but I couldn't get too far without being a translation admin. I went on more interviews, and visited my old bootcamp for DSA practice. I met with a friend from [LEAP](http://www.industryexplorers.com/), who encouraged me to learn C++, since his team was hiring. 
 
 When I got the email that I was accepted as a Wikimedia intern, I almost felt like crying, because I had put so much work in without being certain that it would pan out into an internship. 
 
