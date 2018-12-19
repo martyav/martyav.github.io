@@ -9,7 +9,7 @@ This week's topic is struggle. Tech culture heavily encourages you to pretend yo
 
 I suppose the main difficulty I've run into so far is simply the vastness and diversity of Mediawiki. My job is, in part, to make the action API articles more consistent. However, Mediawiki has been around for decades, and the wiki ethos of allowing anyone to edit naturally lends all articles little quirks. 
 
-In addition, the API's themselves can overlap with one another in confusing ways. Some are lists, some are props, and all require linking back to their proper definitions. Some require calling other APIs in order to make a successful request, or have drifted back and forth between versions in terms of how to write a query. 
+In addition, the APIs themselves can overlap with one another in confusing ways. Some are lists, some are props, and all require linking back to their proper definitions. Some require calling other APIs in order to make a successful request, or have drifted back and forth between versions in terms of how to write a query. 
 
 My job also requires me to improve the docs, by adding relevant information, removing irrelevant information, and rewording the current text for clarity. Most of the docs I've worked on so far have been in good shape, but sometimes they unintentionally mislead the reader. 
 
