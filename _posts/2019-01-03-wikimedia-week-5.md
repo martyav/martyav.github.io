@@ -11,7 +11,7 @@ My job at the Wikimedia Foundation is to explain how to use MediaWiki to a broad
 
 MediaWiki is the software many wikis run on. This includes our friend, Wikipedia. In fact, the software was originally created to run the English Wikipedia.
 
-The action API is a system for interacting with MediaWiki. It uses web requests to communicate what to do. The beginning of the URL is the address of the web server that's hosting the wiki. The rest of the URL is a set of parameters, indicating the action you want to take.
+The action API is a system for interacting with MediaWiki. It uses web requests to communicate what to do. The beginning of the request is the address of the web server that's hosting the wiki. The rest of the request is a set of parameters, indicating the action you want to take.
 
 You compose your query, the server reads the parameters, and then it performs the request (or doesn't).
 
