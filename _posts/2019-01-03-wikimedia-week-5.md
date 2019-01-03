@@ -9,7 +9,7 @@ The official theme for this week's blog is, "Explain your project to a newcomer 
 
 My job at the Wikimedia Foundation is to explain how to use MediaWiki to a broad audience of users. In practice, this means updating all our action API docs to be more consistent, informative, and readable, as well as creating a web app to serve as both an example and a tutorial.
 
-MediaWiki is the software many wikis run on. This includes our friend, Wikipedia. In fact, it was originally created to run the English Wikipedia.
+MediaWiki is the software many wikis run on. This includes our friend, Wikipedia. In fact, the software was originally created to run the English Wikipedia.
 
 The action API is a system for interacting with MediaWiki. It uses web requests to communicate what to do. The beginning of the URL is the address of the web server that's hosting the wiki. The rest of the URL is a set of parameters, indicating the action you want to take.
 
