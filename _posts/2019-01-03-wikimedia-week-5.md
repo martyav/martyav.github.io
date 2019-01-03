@@ -31,7 +31,7 @@ I also perform research to ensure the information on the page is accurate. Somet
 
 The sample code also follows its own template, and uses the popular [Python requests library](http://docs.python-requests.org/en/master/). It is usually not so hard to write, with the main difficulty being in finding good Wikipedia pages to demo each query. For example, for the page [API:Allimages](https://www.mediawiki.org/wiki/API:Allimages), I spent a lot of time hunting for images whose file names followed a sequence, so as to make it clear how the response was ordered.
 
-Once I have fit the page to the template, written the sample code, and edited it to a satisfactory level, I send my mentor a link to the draft. She reads it over, gives me advice, and I make any changes she requested. After a second overview, the page goes live: I copy and paste the source for the draft into the page on the main site.
+Once I have fit the page to the template, written the sample code, and edited it to a satisfactory level, I send my mentor a link to the draft. She reads it over, gives me advice, and I make any changes she asks of me. After a second overview, the page goes live: I copy and paste the source for the draft into the page on the main site.
 
 I copy and paste all at once because this makes it much easier for the translators. MediaWiki has a translation system which uses tags associated with every paragraph. This divides the page into modular sections, and, because the tags are numbered in a fixed order, they  can make re-arranging the page for clarity and consistency much harder. 
 
