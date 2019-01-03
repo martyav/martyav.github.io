@@ -33,8 +33,14 @@ The sample code also follows its own template, and uses the popular [Python requ
 
 Once I have fit the page to the template, written the sample code, and edited it to a satisfactory level, I send my mentor a link to the draft. She reads it over, gives me advice, and I make any changes she asks of me. After a second overview, the page goes live: I copy and paste the source for the draft into the page on the main site.
 
-I copy and paste all at once because this makes it much easier for other editors, especially the translators. MediaWiki has a translation system which uses tags associated with each paragraph. This divides the page into modular sections. Because the tags are generated in a fixed order, they can make re-arranging the page for clarity and consistency much harder. It can also be very confusing for translators when an editor comes in and makes many small changes by re-arranging, adding, and removing paragraphs in quick succession. For these reasons, I have been trying to avoid pages that already have been translation tagged. The translation admin, [Shirayuki](https://www.mediawiki.org/wiki/User:Shirayuki), tags my pages for translation after they are published.
+I copy and paste all at once because this makes it much easier for other editors, especially the translators. MediaWiki has a translation system which uses tags associated with each paragraph. This divides the page into modular sections. 
 
-I have 10 pages published on the main site, so far. Ideas for the tutorial app are still in the works, but the aim is to use several APIs to demonstrate log in, editing, retreiving information, and how to use the response to create something useful. You can track my progress here on [my user page](https://www.mediawiki.org/wiki/User:Martyav). I try to be very meticulius about updating.
+Because the tags are generated in a fixed order, they can make re-arranging the page for clarity and consistency much harder. It can also be very confusing for translators when an editor comes in and makes many small changes by re-arranging, adding, and removing paragraphs in quick succession. 
+
+For these reasons, I have been trying to avoid pages that already have been translation tagged. The translation admin, [Shirayuki](https://www.mediawiki.org/wiki/User:Shirayuki), tags my pages for translation after they are published.
+
+I have 10 pages published on the main site, so far. Ideas for the tutorial app are still in the works, but the aim is to use several APIs to demonstrate log in, editing, retreiving information, and how to use the response to create something useful. 
+
+You can track my progress on [my user page](https://www.mediawiki.org/wiki/User:Martyav). I try to be very meticulius about updating.
 
 Well, that's it for now. By next post, I'll be half-way through my internship and almost ready to start serious work on the app.
