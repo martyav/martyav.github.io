@@ -7,9 +7,9 @@ Going into week 5, things have been slow. The two weeks in between this post and
 
 The official theme for this week's blog is, "Explain your project to a newcomer to your open source community." To be honest, it's somewhat similar to my project as a whole.
 
-My job at the Wikimedia Foundation is to explain how to use MediaWiki to a broad audience of users. In practice, this means updating all our action API docs to be more consistent, informative, and readable, as well as creating a web app to serve as both an example and a tutorial.
+My job at the Foundation is to explain how to use MediaWiki to a broad audience of users. In practice, this means updating all our action API docs to be more consistent, informative, and readable, as well as creating a web app to serve as both an example and a tutorial.
 
-MediaWiki is the software many wikis run on. This includes our friend, Wikipedia. In fact, the software was originally created to run the English Wikipedia.
+[MediaWiki is the software many wikis run on](https://www.mediawiki.org/wiki/Manual:What_is_MediaWiki%3F). This includes our friend, Wikipedia. In fact, the software was originally created to run the English Wikipedia.
 
 The action API is a system for interacting with MediaWiki. It uses web requests to communicate what to do. The beginning of the request is the address of the web server that's hosting the wiki. The rest of the request is a set of parameters, indicating the action you want to take.
 
