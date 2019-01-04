@@ -15,7 +15,7 @@ The action API is a system for interacting with MediaWiki. It uses web requests 
 
 You compose your query, the server reads the parameters, and then it performs the request (or doesn't).
 
-Then it sends back a response, in either JSON or XML. 
+Then it sends back a response. 
 
 All of the documentation for the action API is hosted on [MediaWiki.org](https://www.mediawiki.org/wiki/MediaWiki). The documentation includes individual pages dedicated to every single parameter. Within these parameter pages, there are currently inconsistencies in formatting, in how much and what kind of information is included, and in what languages are used to present sample code for requests. This is especially a problem for very popular pages, which have high visibility and high potential to confuse readers. 
 
@@ -25,7 +25,7 @@ The process starts by reading over a page, then creating a draft for it in my sa
 
 Once I start a draft, I copy and paste the template for the action API. "Template" is, perhaps, a misnomer here, because MediaWiki also uses the term "template" for special syntax which automatically generates text and markup. The action API template I use is more like a skeleton of markup, which requires me to manually add text from the target page within each section. 
 
-My work includes editing pages to be easier to read. I would go as far as to say that most of my time is spent re-wording what is already there, and tightening up passages where I see fit. The docs often suffer from over-explaining the simple, and under-explaining the complex. This is very much a general problem of technical writing, not just the docs on MediaiWiki.
+My work includes editing pages to be easier to read. I would go as far as to say that most of my time is spent re-wording what is already there, and tightening up passages where I see fit. The docs often suffer from over-explaining the simple, and under-explaining the complex. This is very much a general problem of technical writing, not just the docs on MediaWiki.
 
 I also perform research to ensure the information on the page is accurate. Sometimes this means falling down rabbit holes, as I try to track down the changes between API versions, or figure out how to explain technical terminology to newbies. 
 
