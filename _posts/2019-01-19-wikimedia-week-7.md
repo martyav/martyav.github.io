@@ -25,7 +25,7 @@ Translation markup, as it currently stands, is certainly also complicated to wor
 
 There are several proposals to hide the tags from ordinary editors, but as it is, you have to work within the tagging system, whether you have translation rights or not. Without translation rights, though, you don't have as much power to update the tags. You just have to kind of sidle around them, and hope you're not breaking something.
 
-Several pages that I worked on, including one during my trial period in October, sat languishing, waiting or translation review. Eventually, me and my mentor were able to get in touch with Trizek on the WMF team. He was able to give the go ahead on pushing these articles to the main site.
+Several pages that I worked on, including one during my trial period in October, sat for weeks, waiting for translation review. Eventually, me and my mentor were able to get in touch with Trizek on the WMF team. He was able to give the go ahead on pushing these articles to the main site.
 
 With four longstanding translation articles in the can, I'm currently back on track towards my 20 articles. I'm relieved, but I still feel that I need to revise my expectations downward. I have 3 other articles that I am currently struggling with due to the sample code not being ready, and one article that may not get pushed afterall, because there might not be a need for it.
 
