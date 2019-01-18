@@ -27,7 +27,7 @@ There are several proposals to hide the tags from ordinary editors, but as it is
 
 Several pages that I worked on, including one during my trial period in October, sat for weeks, waiting for translation review. Eventually, me and my mentor were able to get in touch with Trizek on the WMF team. He was able to give the go ahead on pushing these articles to the main site.
 
-With four longstanding translation articles in the can, I'm currently back on track towards my 20 articles. I'm relieved, but I still feel that I need to revise my expectations downward. I have 3 other articles that I am currently struggling with due to the sample code not being ready, and one article that may not get pushed afterall, because there might not be a need for it.
+With 4 longstanding translation articles in the can, I'm currently back on track towards my 20 articles. I'm relieved, but I still feel that I need to revise my expectations downward. I have 3 other articles that I am currently struggling with due to the sample code not being ready, and one article that may not get pushed afterall, because there might not be a need for it.
 
 I hope to get 2 easier articles pushed to the main site by today or early next week, so I can have my target of 16 done for week 8. After that, I'll feel lucky if the issue with the code on these problematic pages gets resolved. I might have to find other pages to start work on instead.
 
