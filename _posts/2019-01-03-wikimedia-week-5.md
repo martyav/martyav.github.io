@@ -41,6 +41,6 @@ For these reasons, I have been trying to avoid pages that already have been tran
 
 I have 10 pages published on the main site, so far. Ideas for the tutorial app are still in the works, but the aim is to use several APIs to demonstrate log in, editing, retreiving information, and how to use the response to create something useful. 
 
-You can track my progress on [my user page](https://www.mediawiki.org/wiki/User:Martyav). I try to be very meticulius about updating.
+You can track my progress on [my user page](https://www.mediawiki.org/wiki/User:Martyav). I try to be very meticulous about updating.
 
 Well, that's it for now. By next post, I'll be half-way through my internship and almost ready to start serious work on the app.
