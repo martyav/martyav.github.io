@@ -11,7 +11,7 @@ Many of these articles described APIs that change content within MediaWiki sites
 
 There were times when I found myself getting very stressed out and noticed that the quality of my work was slipping. I had to give myself permission to relax and breath. Being able to do so made me realize how bad some of my previous work environments had been at forcing employees to work, even though they were too fatigued to produce quality writing or code. 
 
-My work ethic comes from doing long hours as a content writer, just to make a decent daily rate. Some tech companies, have a similar culture of low supervision combined with high pressure. I think for my next job, I'd like to pick a company that doesn't encourage that kind of behavior.
+My work ethic comes from doing long hours as a content writer, just to make a decent daily rate. Some tech companies, despite the higher pay, have a similar culture of low supervision combined with high pressure. I think for my next job, I'd like to pick a company that doesn't have that kind of culture.
 
 In the end, I finished 24 out of 27 articles, got some practice designing 3 web apps, trimmed my collosal 48k tutorial done to just under 15k, and completed a full demo in Flask. Along the way, I've learned a lot about HTTP, MediaWiki, Powershell, and Python, got some practice in with Adobe XD, and have developed more confidence in myself as a technical writer.
 
