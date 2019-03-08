@@ -3,11 +3,11 @@ layout: post
 title: Wikimedia Overview
 ---
 
-Monday was my last day interning on Wikimedia's Action API project. I completed my [tuturial](https://www.mediawiki.org/wiki/API:Picture_of_the_day_viewer) that evening, publishing it to the main site after getting final feedback on the third draft. About a month before that, I had finished editing [my twenty-fourth API article](https://www.mediawiki.org/wiki/API:Usercontribs), and set to work on the demo. You can view the finished demo over at [the Wikimedia Github](https://github.com/wikimedia/MediaWiki-Action-API-Code-Samples/tree/master/python/demos/picture-of-the-day-viewer).
+Monday was my last day interning on Wikimedia's Action API project. I completed my [tuturial](https://www.mediawiki.org/wiki/API:Picture_of_the_day_viewer) that evening, publishing it to the main site after getting final feedback on the third draft. About a month before that, I had finished editing [my twenty-fourth API article](https://www.mediawiki.org/wiki/API:Usercontribs), and set to work on the demo. You can view the finished demo over at [the MediaWiki Github](https://github.com/wikimedia/MediaWiki-Action-API-Code-Samples/tree/master/python/demos/picture-of-the-day-viewer).
 
 I've gone a long period between blog posts, and that's only partly because we stopped having weekly prompts after week 7. As I got deeper into the internship, I started having to juggle article writing with working on the demo, and on top of that, the articles left to edit were getting more difficult to improve. 
 
-Many of these articles described APIs that change content within Mediawiki sites. To change content, you need special user rights or permissions, and to check that you have these rights, you need to log in. Because of these additional steps, creating sample code for these APIs was less straightforward. 
+Many of these articles described APIs that change content within MediaWiki sites. To change content, you need special user rights or permissions, and to check that you have these rights, you need to log in. Because of these additional steps, creating sample code for these APIs was less straightforward. 
 
 When trying to test these APIs with my mentor, I often ran into errors due to different users having different permissions, other Mediawiki sites implementing log in differently, sites granting different rights to the same category of user, or not allowing certain operations to any category of user at all. Eventually, I had to halt work on two articles that I had started, because they were distracting too much from designing the intial user flow for the demo.
 
