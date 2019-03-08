@@ -33,6 +33,6 @@ I hope to get 2 easier articles pushed to the main site by today or early next w
 
 As the weeks wind down, I'll be slowly refocusing on the app. I recently mapped out an early version of the quiz app, and hope to get some more wireframes done for the other concepts. I need to research libraries and frameworks, practice coding, and tighten up the final designs.
 
-By the time of my next blog post, I'll hopefully have a good plan forward for the app or apps that I'll be working on, and 18 completed articles on the main site. If I don't, I'll still count it as a victory to have gotten as much as I did done.
+The project I'm working on has been necessary for a long time, and the 17 articles I've completed so far -- including those from my trial period -- have been a significant chunk of the work needed to make the API docs more accessible. 
 
-The project I'm working on has been necessary for a long time, and the 17 articles I've completed so far -- including those from my trial period -- have been a significant chunk of the work needed to make the API docs more accessible to all.
+By the time of my next blog post, I'll hopefully have a good plan forward for the app or apps that I'll be working on, and 18 completed articles on the main site. If I don't, I'll still count it as a victory to have gotten as much as I did done.
