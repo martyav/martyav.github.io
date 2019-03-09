@@ -7,9 +7,7 @@ Monday was my last day interning on Wikimedia's Action API project. I completed 
 
 I've gone a long period between blog posts, and that's only partly because we stopped having weekly prompts after week 7. As I got deeper into the internship, I started having to juggle article writing with working on the demo, and on top of that, the articles left to edit were getting more difficult to improve. 
 
-Many of these articles described APIs that change content within MediaWiki sites. To change content, you need special user rights or permissions, and to check that you have these rights, you need to log in. Because of these additional steps, creating sample code for these APIs was less straightforward. 
-
-There were times when I found myself getting very stressed out and noticed that the quality of my work was slipping. I had to give myself permission to relax and breath. Being able to do so made me realize how bad some of my previous work environments had been at forcing employees to work, even though they were too fatigued to produce quality writing or code. 
+There were times when I found myself getting very stressed out and noticed that the quality of my work was slipping. I had to give myself permission to relax and breathe. Being able to do so made me realize how bad some of my previous work environments had been at forcing employees to work, even though they were too fatigued to produce quality writing or code. 
 
 My work ethic comes from doing long hours as a content writer, just to make a decent daily rate. Some tech companies, despite the higher pay, have a similar culture of low supervision combined with high pressure. I think for my next job, I'd like to pick a company that doesn't have that kind of culture. Being able to stop and start made this project one of the favorite ones I've worked on.
 
