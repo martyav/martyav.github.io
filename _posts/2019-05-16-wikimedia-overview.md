@@ -3,11 +3,13 @@ layout: post
 title: Trips, Jobs & Conferences
 ---
 
-I think the last time I was here, I said that I was tired, and would try to rest. 
+It's been a while. You'd be excused for believing I was inactive. I think the last time I was here, I said that I was tired, and would try to rest. 
 
 I did manage to book a weekend trip to Woodstock, using the last paycheck from my internship. It was the first time I'd ever planned a trip like that for myself. It wasn't to _do_ anything. It could have been another place; I spent a lot of time reading about other places. I just wanted to go out and see another town—somewhere different. 
 
-I ultimately picked Woodstock because my girlfriend Margaret told me Woodstock had art galleries and hiking, and and that we could visit it three hours away by bus. The bus ride was perfectly fine, and we got to see most of the galleries along the main strip on our first day. On the second day, it snowed, but that was all right. I bought us bagels and chocolate, and at night we walked through the snow to the pizzeria two lots over. 
+I ultimately picked Woodstock because my girlfriend Margaret told me Woodstock had art galleries and hiking, and and that we could visit it three hours away by bus. The bus ride was perfectly fine, and we got to see most of the galleries along the main strip on our first day. 
+
+On the second day, it snowed, but that was all right. I bought us bagels and chocolate, and at night we walked through the snow to the pizzeria two lots over. 
 
 The hotel we stayed in was really an old house. It reminded me of a place I used to live in, an apartment with all the walls painted bright, acidic colors. We had the top floor to ourselves. It felt more like home than most places have, in a while.
 
@@ -17,7 +19,7 @@ They were suddenly interested in me now that my internship had ended, and I was 
 
 At first, I felt like I had to give everyone contacting me a shot, even though I had promised myself I would rest. I filled out the applications they sent me, submitted writing samples, and completed exercises. I'm very bad at taking breaks.
 
-One month in, with three opportunities that had ultimately fallen through, I got phone calls about two seperate contracts. One was with Wiki, and one was with Microsoft. I'd be working remotely, so I could stay with my friends and family. I wouldn't have to move again.
+One month in, with three opportunities that had ultimately fallen through, I got phone calls about two separate contracts. One was with Wiki, and one was with Microsoft. I'd be working remotely, so I could stay with my friends and family. I wouldn't have to move again.
 
 I never expected anything to turn out so well for me. I had to take a day to say "yes," because I felt so shocked. The work started mid-April.
 
